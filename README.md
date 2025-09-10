@@ -55,7 +55,7 @@ nc 169.254.1.2 4444
 **Danilo Erazo** (`@revers3vrything`)  
 Hardware Security Researcher and Speaker at:
 - Hardwear.io USA 2025
-- DEFCON 32
+- DEFCON 32, DEFCON33
 - Ekoparty 2024 & 2023
 - Re//verse 2025, etc
 
