@@ -2,9 +2,7 @@
 
 ![tool](tool.png)
 
-Remote Code Execution (RCE) exploit targeting **Calix Gigacenter ONT routers**, specifically tested on the **Calix 844G-1** model. These routers are **End of Life (EOL)**, and this exploit takes advantage of a zero-day vulnerability discovered in **February 2025**.
-
-This and four other zero-days will be publicly presented at **Recon 2025**, held in Montreal on **June 29, 2025**.
+Remote Code Execution (RCE) exploit targeting **Calix Gigacenter ONT routers**, specifically tested on the **Calix 844G-1** model. This exploit takes advantage of a zero-day vulnerability discovered in **February 2025**, now assigned as CVE-2025-54084. The affected routers are: Calix GigaCenter ONT 844E, 844G, 844GE, and 854GE. Finally, there are 4 more zero days discovered, if do you want to read more deatils about this RCE vulnerability and the another ones, check the post: https://revers3everything.com/calix-case-five-0-days-five-cves/
 
 ## ⚠️ Disclaimer
 This tool is intended **only for educational and ethical hacking purposes**.  
