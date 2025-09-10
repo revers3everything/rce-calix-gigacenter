@@ -48,7 +48,7 @@ nc 169.254.1.2 4444
 ## Exploit Timeline
 
 - **Zero-day discovered:** February 2025
-- **Public disclosure:** June 29, 2025 at Recon Montreal
+- **CVE Public disclosure:** September 9 2025
 [demo-exploit](final-rce-poc.webm)
 
 ## Author
